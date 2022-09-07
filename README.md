@@ -1,10 +1,5 @@
 # 基于SSM的商城管理系统
 
-## 获取方式
-
-扫描下方，回复关键词  ：**商城7** ，获取完整版源码
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
@@ -51,11 +46,4 @@
 
 ![购物车](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208141703911.jpg)
 
-## 5、获取方式
-
-扫描下方，回复关键词  ：**商城7** ，获取完整版源码
-
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
