@@ -46,4 +46,8 @@
 
 ![购物车](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208141703911.jpg)
 
+### 获取方式&视频演示
 
+下方扫一下，回复关键词：商城
+
+![gitee](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309291447341.png)
